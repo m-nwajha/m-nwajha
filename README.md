@@ -5,7 +5,7 @@
 **Front-End / React JS Developer**  
 📞 +970 599 459 397  
 📧 [m.nawjha@gmail.com](mailto:m.nawjha@gmail.com)  
-🌐 [WebSite](https://github.com/M-NAWJHA) | [linkedin](https://www.linkedin.com/in/m-nwajha)  
+🌐 [WebSite](https://nawjha.netlify.app) | [linkedin](https://www.linkedin.com/in/m-nwajha)  
 
 
 
