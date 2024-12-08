@@ -42,7 +42,7 @@ Passionate Frontend React Developer with 3 years of experience creating and impl
 - Bootstrap, Tailwind CSS  
 
 ### Version Control System:
-- GitHub  
+- Git, GitHub 
 
 ### Additional Tools/Technologies:
 - npm, npx, yarn  
