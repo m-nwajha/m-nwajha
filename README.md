@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohamed Alnawjha  
+# 👋 Hi, I’m Mohamed ALnawjha  
 
 **JavaScript & TypeScript Engineer | React & Next.js | Express.js & MongoDB**  
 
