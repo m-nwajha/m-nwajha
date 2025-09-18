@@ -1,54 +1,47 @@
-## 👋 **Welcome!**
-![](https://nawjha.netlify.app/assets/images/logo.png)
-# Mohamed ALnawjha
+# 👋 Hi, I’m Mohamed Alnawjha  
 
-**Front-End / React JS Developer**  
-📞 +970 599 459 397  
-📧 [m.nawjha@gmail.com](mailto:m.nawjha@gmail.com)  
-🌐 [WebSite](https://nawjha.netlify.app) | [linkedin](https://www.linkedin.com/in/m-nwajha)  
+**JavaScript & TypeScript Engineer | React & Next.js | Express.js & MongoDB**  
 
-
-
-Passionate Frontend React Developer with 3 years of experience creating and implementing innovative web applications. Adept at translating UI/UX design concepts into responsive and interactive user interfaces. Proven track record of collaborating with cross-functional teams to deliver high-quality software solutions. Seeking to contribute technical expertise to a dynamic development team.
+**Full-Stack Engineer** with 3 years of experience specializing in building **robust, scalable, and user-friendly web applications**.  
+My passion is turning complex ideas into **clean digital experiences** that actually make life easier. 🚀  
 
 ---
 
-## 💼 **Professional Experience**
+## 🛠️ Tech Stack  
 
-- **Concept Media, Palestine** — *Front-End Developer*  
-  *Jan 2023 - PRESENT*  
-  - Collaborated with the design team to implement pixel-perfect, mobile-responsive user interfaces using React and CSS.
-
-- **Azyian, Palestine** — *WordPress Developer*  
-  *Oct 2022 - PRESENT*  
-  - Developed custom WordPress themes and plugins to meet specific project needs, ensuring compatibility with the latest WordPress version and best coding practices.
-
-- **ITOMORROW, Egypt** — *Front-End Developer*  
-  *May 2020 - Oct 2022*  
-  - Created pixel-perfect, mobile-responsive user interfaces using JavaScript and CSS in collaboration with design teams.
+- **Languages:** JavaScript (ES6+), TypeScript, HTML, CSS  
+- **Frontend:** React, Next.js, Tailwind CSS, MUI, Bootstrap, CSS-in-JS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Tools & Platforms:** Git, GitHub, Webpack, Vite, Docker, npm/yarn, Jira  
 
 ---
 
-## 🛠️ **Skills**
+## 💼 Professional Experience  
 
-### Programming Languages:
-- HTML5, CSS3  
-- JavaScript (ES6+), TypeScript  
+### Front-End Developer — *Impact Valley Studio, Saudi Arabia (2023 – Present, Remote)*  
+- Built and maintained **2 large-scale responsive apps** serving 500+ active users.  
+- Delivered **20+ pixel-perfect UI screens**, improving accuracy by 95%.  
+- Optimized APIs and performance, reducing load time by 18%.  
+- Added interactive features with Vanilla JS, Tailwind, and Bootstrap, increasing engagement by 30%.  
 
-### Front-End Frameworks & Libraries:
-- ReactJS & NextJS (Components, State, Router, Hooks, Redux, API Integration)  
-- Vite.JS
-- MUI
-- Bootstrap, Tailwind CSS  
-
-### Version Control System:
-- Git, GitHub 
-
-### Additional Tools/Technologies:
-- npm, npx, yarn  
-
+### Front-End Developer — *Concept Media, Palestine (2022 – 2024)*  
+- Delivered **15+ responsive pages** enhancing brand identity.  
+- Improved load times by 15% and reduced code maintenance issues by 20%.  
+- Boosted mobile engagement by 25% through consistent UI/UX.  
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out for collaboration or any exciting opportunities. 😊
+## 🚀 Featured Projects  
 
+**Tanal Aloula Corporate Website**  
+MERN Stack site with full Arabic RTL support and responsive UI.  
+- Boosted performance by 20% | 1,000+ monthly visitors.  
+
+**Maan School System**  
+School management platform for 500+ students & teachers.  
+- 30% faster load time with React, Vite & TypeScript.  
+
+---
+
+## 📬 Connect  
+📞 +972 56 763 4884 | 📧 [m.nawjha@gmail.com](mailto:m.nawjha@gmail.com)  |  🌍 [Portfolio](http://www.nawjha.tech) | 💼 [LinkedIn](https://linkedin.com/in/m-nwajha)
